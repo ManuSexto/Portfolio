@@ -13,10 +13,11 @@ Feel free to explore each section and learn more about my journey as a data prof
 
 ## SQL
 
-### Data created from Adventureworks2017
+ ### Ecommerce
 
-In this proyect I created the data using SQL, from the database  [Adventureworks2017](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)  this is the  document [Ecommerce Database](https://github.com/ManuSexto/Portfolio-Projects/blob/main/SQL/Database%20ECommerce.sql)  and using this data I have resolved different consultative queries about, defined in the code itself, about different aspects of the database.
-Code: [Ecommerce Code](https://github.com/ManuSexto/Portfolio-Projects/blob/main/SQL/Code_Ecommerce.sql)
+- In this proyect I created the data using SQL, from the database  [Adventureworks2017](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)  this is the  document [Ecommerce Database](https://github.com/ManuSexto/Portfolio-Projects/blob/main/SQL/Database%20ECommerce.sql)  and using this data I have resolved different consultative queries about, defined in the code itself, about different aspects of the database.
+
+  **Code:** [Ecommerce Code](https://github.com/ManuSexto/Portfolio-Projects/blob/main/SQL/Code_Ecommerce.sql)
 
 
 
