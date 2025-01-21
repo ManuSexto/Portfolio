@@ -30,6 +30,8 @@ Feel free to explore each section and learn more about my journey as a data prof
 
 ## **Portfolio Proyects**
 
+
+
 ## SQL
 
 - ### Ecommerce
@@ -49,18 +51,30 @@ This proyect ranges from global and regional sales analysis to the creation of d
 **Code:** [AdventureWorks2017](https://github.com/ManuSexto/Portfolio-Projects/blob/main/SQL/AdventureWorks2017_1.sql)
 
 
+
+
 ## R
+
 
 - ### [Clustering AW17](https://github.com/ManuSexto/Portfolio-Projects/blob/main/R/AW17%20Clustering.R)
 
-This proyect started with the  preparation of  the data, once it was clean and the spikes in the sells colums were treated, it was time to analyze the data by answering certain questions about it. After the analysis and I slected the algorithm K-means for th clustering. Once the optimal number of clusters is determined, the results are interpreted and visualized to uncover meaningful patterns and validate their quality.
+This project began with data preparation, which included cleaning the dataset and addressing anomalies in the sales column. Once the data was ready, an analysis was conducted to answer key questions and explore its characteristics. The K-means algorithm was selected for clustering, and after determining the optimal number of clusters, the results were interpreted and visualized to identify meaningful patterns and validate their quality.
 
 **Data:** [Dataset AW17 Clustering](R/dataset_AW_Clustering.xlsx)
 
 
-**Code:** [AW17 Clustering]([https://github.com/ManuSexto/Portfolio-Projects/blob/main/SQL/AdventureWorks2017_1.sql](https://github.com/ManuSexto/Portfolio-Projects/blob/main/R/AW17%20Clustering.R))
+**Code:** [AW17 Clustering](https://github.com/ManuSexto/Portfolio-Projects/blob/main/SQL/AdventureWorks2017_1.sql](https://github.com/ManuSexto/Portfolio-Projects/blob/main/R/AW17%20Clustering.R)
+
 
 
 - ### [Predictions,Logistic regresion and decision tree](https://github.com/ManuSexto/Portfolio-Projects/blob/main/R/Dataset%20SQL%20AW17.R)
+
+The goal of this project was to develop a model capable of predicting whether an individual would make a purchase, utilizing two distinct approaches: logistic regression and decision tree algorithms. The process began with thorough data cleaning and analysis, followed by splitting the dataset into training and validation subsets. The models were then trained, and their accuracy was evaluated. Additionally, unsupervised learning techniques were applied to identify different customer typologies, segmenting the dataset into two clusters for further analysis and interpretation.
+
+**Data:** [Dataset SQL AW17](R/DataSet SQL Analisis Masivo de Datos.xlsx)
+
+
+**Code:** [SQL AW17 ](R/SQL AW17.R)
+
 
 
