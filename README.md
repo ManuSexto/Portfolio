@@ -22,7 +22,7 @@ My CV in pdf.
       - [Adventure Works 2017](https://github.com/ManuSexto/Portfolio/blob/main/README.md#AdventureWorks2017)
    - [R](https://github.com/ManuSexto/Portfolio/blob/main/README.md#R)
       - [Clustering AW17](https://github.com/ManuSexto/Portfolio/blob/main/README.md#Clustering-AW17)
-      - [Predictions,Logistic regresion and decision tree](https://github.com/ManuSexto/Portfolio/blob/main/README.md#Predictions-Logistic-regresion-and-decision-tree)
+      - [Predictions,Logistic regresion and decision tree](https://github.com/ManuSexto/Portfolio/blob/main/README.md#PredictionsLogistic-regresion-and-decision-tree)
       - [Analyzing University enrollments](https://github.com/ManuSexto/Portfolio/blob/main/README.md#Analyzing-University-enrollments)
    - [Python](https://github.com/ManuSexto/Portfolio/blob/main/README.md#Python)
        - [Analysis and clustering AW](https://github.com/ManuSexto/Portfolio/blob/main/README.md#Analysis-and-clustering-AW)
