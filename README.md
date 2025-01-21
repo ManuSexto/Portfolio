@@ -20,8 +20,8 @@ Feel free to explore each section and learn more about my journey as a data prof
       - [Ecommerce](https://github.com/ManuSexto/Portfolio/blob/main/README.md#Ecommerce)
       - [Adventure Works 2017](https://github.com/ManuSexto/Portfolio/blob/main/README.md#AdventureWorks2017)
    - [R](https://github.com/ManuSexto/Portfolio/blob/main/README.md#R)
-      - [Analyzing the Factors Contributing to the Success of a Movie]
-      - [Tech Store Sales Analysis]
+      - [Clustering AW17](https://github.com/ManuSexto/Portfolio/blob/main/README.md#Clustering-AW17)
+      - [Predictions,Logistic regresion and decision tree](https://github.com/ManuSexto/Portfolio/blob/main/README.md#Predictions,Logistic-regresion-and-decision-tree)
 
 - R
     - [Legendary Pokémon Analysis (Study Project)]
@@ -29,7 +29,7 @@ Feel free to explore each section and learn more about my journey as a data prof
   - Tableau---> [go to Tableau..]
   - Power BI
 
-## **Portfolio Proyects**
+## **Portfolio Projects**
 
 
 
