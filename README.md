@@ -1,6 +1,8 @@
-# Portfolio
+# Manuel Sexto - Data Analyst Portfolio
 
-Hello! First of all thank you for your time and your interest in my portfolio this documetn will guide you through it.
+## About
+
+Hello, I'm Manuel!  I have an academic background in Business and currently, I am currently completing my Master's in Business Intelligence in First of all thank you for your time and your interest in my portfolio this documetn will guide you through it.
 
 This portfolio showcases my experience as a Data Analyst, organized by the tools and technologies I've mastered. Each section highlights projects and professional work, providing details about the objectives, methodologies, and results achieved.
 
@@ -10,6 +12,22 @@ Objectives and challenges
 Key methodologies or techniques applied
 Outcomes and key insights
 Feel free to explore each section and learn more about my journey as a data professional!
+
+## Table of Contents
+- [About](https://github.com/ManuSexto/Portfolio/blob/main/README.md#about)
+- [Portfolio Projects]
+  - Python
+    - [Analyzing the Factors Contributing to the Success of a Movie]
+    - [Tech Store Sales Analysis]
+  - SQL
+    - [Covid 19 Data Exploration]
+    - [Nashville Housing Data Cleaning]
+  - R
+    - [Legendary Pokémon Analysis (Study Project)]
+  - Excel / Google Sheets
+  - Tableau---> [go to Tableau..]
+  - Power BI
+
 
 ## SQL
 
