@@ -40,7 +40,7 @@ In this proyect I created the data [Ecommerce Database](https://github.com/ManuS
 
 **Code:** [Ecommerce Code](https://github.com/ManuSexto/Portfolio-Projects/blob/main/SQL/Code_Ecommerce.sql)
 
- - ### [AdventureWorks2017] (https://github.com/ManuSexto/Portfolio-Projects/blob/main/SQL/AdventureWorks2017_1.sql)
+ - ### [AdventureWorks2017](https://github.com/ManuSexto/Portfolio-Projects/blob/main/SQL/AdventureWorks2017_1.sql)
 
 This proyect ranges from global and regional sales analysis to the creation of detailed datasets for predictive modeling (linear and logistic regression). Queries were built to extract, transform, and consolidate relevant data from multiple tables, optimizing the organization and preparation of information for future analysis or visualizations.
 
