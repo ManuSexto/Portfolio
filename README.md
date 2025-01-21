@@ -15,13 +15,13 @@ Feel free to explore each section and learn more about my journey as a data prof
 
 ## Table of Contents
 - [About](https://github.com/ManuSexto/Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/ManuSexto/Portfolio/blob/main/README.md#Portfolio-Proyects)
-  - Python
+- [SQL](https://github.com/ManuSexto/Portfolio/blob/main/README.md#SQL)
+   - [Ecommerce](https://github.com/ManuSexto/Portfolio/blob/main/README.md#Ecommerce)
+    - [Adventure Works 2017](https://github.com/ManuSexto/Portfolio/blob/main/README.md#AdventureWorks2017)
+   - [R](https://github.com/ManuSexto/Portfolio/blob/main/README.md#R)
     - [Analyzing the Factors Contributing to the Success of a Movie]
     - [Tech Store Sales Analysis]
-  - SQL
-    - [Covid 19 Data Exploration]
-    - [Nashville Housing Data Cleaning]
+
   - R
     - [Legendary Pokémon Analysis (Study Project)]
   - Excel / Google Sheets
@@ -43,9 +43,23 @@ In this proyect I created the data [Ecommerce Database](https://github.com/ManuS
 
 This proyect ranges from global and regional sales analysis to the creation of detailed datasets for predictive modeling (linear and logistic regression). Queries were built to extract, transform, and consolidate relevant data from multiple tables, optimizing the organization and preparation of information for future analysis or visualizations.
 
-**Data:** [Adventureworks2017](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+**Data:**[Adventureworks2017](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 
 **Code:** [AdventureWorks2017](https://github.com/ManuSexto/Portfolio-Projects/blob/main/SQL/AdventureWorks2017_1.sql)
 
+
+## R
+
+- ### [Clustering AW17](https://github.com/ManuSexto/Portfolio-Projects/blob/main/R/AW17%20Clustering.R)
+
+This proyect started with the  preparation of  the data, once it was clean and the spikes in the sells colums were treated, it was time to analyze the data by answering certain questions about it. After the analysis and I slected the algorithm K-means for th clustering. Once the optimal number of clusters is determined, the results are interpreted and visualized to uncover meaningful patterns and validate their quality.
+
+**Data:** [Dataset AW17 Clustering](R/dataset_AW_Clustering.xlsx)
+
+
+**Code:** [AW17 Clustering]([https://github.com/ManuSexto/Portfolio-Projects/blob/main/SQL/AdventureWorks2017_1.sql](https://github.com/ManuSexto/Portfolio-Projects/blob/main/R/AW17%20Clustering.R))
+
+
+- ### [Predictions,Logistic regresion and decision tree](https://github.com/ManuSexto/Portfolio-Projects/blob/main/R/Dataset%20SQL%20AW17.R)
 
 
