@@ -84,17 +84,17 @@ The goal of this project was to develop a model capable of predicting whether an
 This project focused on analyzing a dataset containing enrollment information for various master's and bachelor's programs at diferent universities. The analysis included identifying trends such as the Top 30 universities with the most enrolled students and the Top 30 degrees with the highest percentage of women. To enhance data interpretation, visualizations were created for all key insights, enabling a clear and comprehensive understanding of enrollment patterns and preferences.
 
 
-**Data:** [Dataset Univesities](https://github.com/ManuSexto/Portfolio-Projects/blob/main/R/DataSet%20SQL%20Analisis%20Masivo%20de%20Datos.xlsx](https://github.com/ManuSexto/Portfolio-Projects/blob/main/R/matriculas_gradoposgrado.xlsx)
+**Data:** [Dataset Univesities](https://github.com/ManuSexto/Portfolio-Projects/blob/main/R/matriculas_gradoposgrado.xlsx)
 
 
-**Code:** [Analyzing University enrollments](https://github.com/ManuSexto/Portfolio-Projects/blob/main/R/SQL%20AW17.R](https://github.com/ManuSexto/Portfolio-Projects/edit/main/R/University_Data.R)
+**Code:** [Analyzing University enrollments](https://github.com/ManuSexto/Portfolio-Projects/edit/main/R/University_Data.R)
 
 
 
 ## Python
 
 
--### [Analysis and clustering AW](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Python/dataset_AW_%20Clustering.xlsx)
+- ### [Analysis and clustering AW](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Python/dataset_AW_%20Clustering.xlsx)
 
 
 This project focused on analyzing a database to extract meaningful insights through visualizations and clustering techniques. Initially, the data was cleaned and prepared for analysis to ensure accuracy and consistency. Key performance indicators and trends were identified using a variety of graphs, such as bar charts, scatter plots, and heatmaps, which allowed for a comprehensive understanding of the dataset.
