@@ -151,6 +151,7 @@ A key aspect of this project is the use of DAX (Data Analysis Expressions) to ca
 ## Contact
 
 Let’s Connect!
+
 Thank you for taking the time to explore my portfolio. If you have any questions, want to discuss my work, or explore collaboration opportunities, feel free to reach out.
 
 📧 Email: manusexto98@gmail.com
