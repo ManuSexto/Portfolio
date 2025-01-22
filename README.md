@@ -13,7 +13,7 @@ Outcomes and key insights
 
 Feel free to explore each section and learn more about my journey as a data professional!
 
-My CV in pdf.
+My [CV](https://github.com/ManuSexto/Portfolio/blob/main/CV%20Manuel%20Sexto.pdf) in pdf.
 
 ## Table of Contents
 - [About](https://github.com/ManuSexto/Portfolio/blob/main/README.md#about)
