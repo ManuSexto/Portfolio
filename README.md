@@ -115,6 +115,12 @@ After the exploratory analysis, clustering techniques were applied to uncover hi
 
 - ### [Tractchun](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/Tractchun.pdf)
 
+
+This project involved the development of an interactive Power BI dashboard for a fictional customer support company managing tickets. The dashboard showcases key performance indicators (KPIs) and provides various visualizations to track and analyze ticket-related data.
+
+The visualizations include bar charts to display tickets by category and the total number of open tickets by the number of days they have been open, line charts to illustrate the temporal evolution of tickets over time, and pie charts to show the distribution of tickets by classification. The dashboard also features dynamic filters and slicers, enabling users to interact with the data and tailor the analysis to their needs. A visually appealing design was prioritized, including a dark mode option for improved user experience and accessibility.
+
+
 **Data:** 
 [Tractchun Data_16](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/2016.xlsx)
 [Tractchun Data_17](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/2017.xlsx)
@@ -128,6 +134,12 @@ After the exploratory analysis, clustering techniques were applied to uncover hi
 
 
 - ### [Marketing campaign](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/MARKETING_CMPG.pdf)
+
+
+
+This project focuses on analyzing customer behavior, product performance, and marketing campaigns for a supermarket. The Power BI file consists of three pages with dynamic filters and a variety of visualizations, each tailored to the specific type of data being represented.
+
+A key aspect of this project is the use of DAX (Data Analysis Expressions) to calculate the required metrics and values. While the visualizations prioritize simplicity and clarity for end-users, the complexity lies in the ETL process, where a star schema model was developed, and in the creation of advanced DAX measures to support insightful analysis.
 
 
 **Data:** [Marketing Campaign Data](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/marketing_campaign.xlsx)
