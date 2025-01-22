@@ -28,8 +28,9 @@ My CV in pdf.
    - [Python](https://github.com/ManuSexto/Portfolio/blob/main/README.md#Python)
        - [Analysis and clustering AW](https://github.com/ManuSexto/Portfolio/blob/main/README.md#Analysis-and-clustering-AW)
   - [PowerBI](https://github.com/ManuSexto/Portfolio/blob/main/README.md#PowerBI)
-  - Tableau---> [go to Tableau..]
-  - Power BI
+       - [Tractchun](https://github.com/ManuSexto/Portfolio/blob/main/README.md#Tractchun)
+       - [Marketing campaign](https://github.com/ManuSexto/Portfolio/blob/main/README.md#Marketing-campaign)
+- [Contact](https://github.com/ManuSexto/Portfolio/blob/main/README.md#Contact)
 
 ## **Portfolio Projects**
 
