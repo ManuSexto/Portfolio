@@ -12,6 +12,7 @@ Key methodologies or techniques applied
 Outcomes and key insights
 
 Feel free to explore each section and learn more about my journey as a data professional!
+
 My CV in pdf.
 
 ## Table of Contents
