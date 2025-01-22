@@ -111,6 +111,30 @@ After the exploratory analysis, clustering techniques were applied to uncover hi
 ## PowerBI
 
 
+- ### [Tractchun](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/Tractchun.pdf)
+
+**Data:** 
+[Tractchun Data_16](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/2016.xlsx)
+[Tractchun Data_17](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/2017.xlsx)
+[Tractchun Data_18](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/2018.xlsx)
+[Tractchun Data_19](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/2019.xlsx)
+[Tractchun Data_20](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/2020.xlsx)
+            
+
+
+**Code:** [Tractchun_Code](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/Tractchun_Code.dax)
+
+
+- ### [Marketing campaign](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/MARKETING_CMPG.pdf)
+
+
+**Data:** [Marketing Campaign Data](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/marketing_campaign.xlsx)
+
+
+**Code:** [Marketing Campaign Code](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/Marketing_cmpg_code.dax)
+
+
+
 
 
 
