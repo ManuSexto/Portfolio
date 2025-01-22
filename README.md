@@ -154,7 +154,8 @@ Let’s Connect!
 Thank you for taking the time to explore my portfolio. If you have any questions, want to discuss my work, or explore collaboration opportunities, feel free to reach out.
 
 📧 Email: manusexto98@gmail.com
-🌐 LinkedIn: [Manuel Sexto](www.linkedin.com/in/manuelsexto)
+
+🌐 LinkedIn: www.linkedin.com/in/manuelsexto
 
 Looking forward to hearing from you!
 
