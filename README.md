@@ -148,7 +148,15 @@ A key aspect of this project is the use of DAX (Data Analysis Expressions) to ca
 **Code:** [Marketing Campaign Code](https://github.com/ManuSexto/Portfolio-Projects/blob/main/Visualizations/Marketing_cmpg_code.dax)
 
 
+## Contact
 
+Let’s Connect!
+Thank you for taking the time to explore my portfolio. If you have any questions, want to discuss my work, or explore collaboration opportunities, feel free to reach out.
+
+📧 Email: manusexto98@gmail.com
+🌐 LinkedIn: [Manuel Sexto](www.linkedin.com/in/manuelsexto)
+
+Looking forward to hearing from you!
 
 
 
